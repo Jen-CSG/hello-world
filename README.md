@@ -10,3 +10,5 @@ Now I'm adding lines. I want to see what a series of commits looks like.
 Looks like I have to click on the commits button in order to see all my commits (sequentially).
 
 If I recall correctly, everything in the repo is tagged each time a commit is done. 
+
+BRANCH: This text is added only on a branch.
